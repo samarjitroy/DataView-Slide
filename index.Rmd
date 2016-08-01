@@ -47,7 +47,7 @@ img {
 </style>
 
 <div style='text-align: center;'>
-    <img height='560' src='./TwoWay.png' />
+    <img height='560' src='TwoWay.png' />
 </div>
 
 --- .class #id 
@@ -61,7 +61,7 @@ img {
 </style>
 
 <div style='text-align: center;'>
-    <img height='560' src='./Frequency.png' />
+    <img height='560' src='Frequency.png' />
 </div>
 
 
