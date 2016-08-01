@@ -32,8 +32,9 @@ img {
 </style>
 
 The plot requires two columns form x axis & Y axis
+
 <div style='text-align: center;'>
-    <img height='560' src='DataView.png' />
+    <img height='460' src='DataView.png' />
 </div>
 
 --- .class #id 
@@ -47,8 +48,10 @@ img {
 }
 </style>
 
+The plot requires two columns form x axis & Y axis
+
 <div style='text-align: center;'>
-    <img height='560' src='TwoWay.png' />
+    <img height='460' src='TwoWay.png' />
 </div>
 
 --- .class #id 
@@ -61,8 +64,10 @@ img {
 }
 </style>
 
+The plot requires one columns form x axis
+
 <div style='text-align: center;'>
-    <img height='560' src='Frequency.png' />
+    <img height='460' src='Frequency.png' />
 </div>
 
 
