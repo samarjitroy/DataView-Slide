@@ -31,6 +31,7 @@ img {
 }
 </style>
 
+The plot requires two columns form x axis & Y axis
 <div style='text-align: center;'>
     <img height='560' src='DataView.png' />
 </div>
